@@ -1,0 +1,6 @@
+@SharedLanguageResources.Server_HostAddress = http://localhost:5155
+
+GET {{SharedLanguageResources.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

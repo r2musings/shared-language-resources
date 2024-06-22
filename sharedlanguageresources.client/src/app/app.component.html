@@ -1,0 +1,20 @@
+<h1 id="tableLabel">{{ 'WEATHER_FORECAST' | transloco }}</h1> 
+
+<table *ngIf="forecasts">
+    <thead>
+        <tr>
+            <th>{{ 'DATE' | transloco }}</th>
+            <th>{{ 'TEMP_C' | transloco }}</th>
+            <th>{{ 'TEMP_F' | transloco }}</th>
+            <th>{{ 'SUMMARY' | transloco }}</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let forecast of forecasts">
+            <td>{{ forecast.date }}</td>
+            <td>{{ forecast.temperatureC }}</td>
+            <td>{{ forecast.temperatureF }}</td>
+            <td>{{ forecast.summary | transloco }}</td>
+        </tr>
+    </tbody>
+</table>

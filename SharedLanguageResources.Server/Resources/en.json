@@ -1,0 +1,17 @@
+{
+  "COOL": "Cool",
+  "DATE": "Date",
+  "FREEZING": "Freezing",
+  "HOT": "Hot",
+  "MILD": "Mild",
+  "RAINY": "Rainy",
+  "SNOWY": "Snowy",
+  "STORMY": "Stormy",
+  "SUMMARY": "Summary",
+  "SUNNY": "Sunny",
+  "TEMP_C": "Temp (°C)",
+  "TEMP_F": "Temp (°F)",
+  "WARM": "Warm",
+  "WEATHER_FORECAST": "Weather Forecast",
+  "WINDY": "Windy"
+}

@@ -1,0 +1,17 @@
+{
+  "COOL": "Frais",
+  "DATE": "Date",
+  "FREEZING": "Gelé",
+  "HOT": "Chaud",
+  "MILD": "Doux",
+  "RAINY": "Pluvieux",
+  "SNOWY": "Neigeux",
+  "STORMY": "Orageux",
+  "SUMMARY": "Résumé",
+  "SUNNY": "Ensoleillé",
+  "TEMP_C": "Temp (°C)",
+  "TEMP_F": "Temp (°F)",
+  "WARM": "Chaud",
+  "WEATHER_FORECAST": "Prévision météo",
+  "WINDY": "Venteux"
+}

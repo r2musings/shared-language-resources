@@ -1,0 +1,17 @@
+{
+  "COOL": "Fresco",
+  "DATE": "Fecha",
+  "FREEZING": "Congelado",
+  "HOT": "Caliente",
+  "MILD": "Suave",
+  "RAINY": "Lluvioso",
+  "SNOWY": "Nevado",
+  "STORMY": "Tormentoso",
+  "SUMMARY": "Resumen",
+  "SUNNY": "Soleado",
+  "TEMP_C": "Temp (°C)",
+  "TEMP_F": "Temp (°F)",
+  "WARM": "Cálido",
+  "WEATHER_FORECAST": "Pronóstico del tiempo",
+  "WINDY": "Ventoso"
+}
